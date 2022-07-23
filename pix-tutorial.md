@@ -2,7 +2,7 @@
 
 - [Conheça o PIX](Conheça-o-PIX-)
 - [Mas afinal, o que é uma chave PIX?](Mas-afinal,-o-que-é-uma-chave-PIX)
-  - [Como configurar uma chave PIX](como-configurar-uma-chave-pix)
+  - [Como configurar sua chave PIX](como-configurar-uma-chave-pix)
 - [Saiba mais](Saiba-mais)
 
 # **Conheça o PIX**
@@ -25,7 +25,7 @@ Chave Pix nada mais é, um método de identificação para receber dinheiro ou r
 
 > ###### Nota: No entanto, para gerar as chaves pix, o usuário não poderá usar os mesmos dados em instituições diferentes, por exemplo: se o usuário utilizou o número do telefone em um banco, é necessário o CPF, CNPJ, endereço de e-mail, ou código personalizado em outra instituição.
 
-# **Como configurar uma chave PIX**
+# **Como configurar sua chave PIX**
 
 Para configurar uma chave PIX, é bem simples, cada instituição financeira exibe um ícone de acesso ao PIX em seus respectivos aplicativos e escolhe a forma do registro. Neste exemplo, veremos o procedimento no aplicativo do banco Itaú.
 
