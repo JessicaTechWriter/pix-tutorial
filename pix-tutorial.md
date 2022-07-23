@@ -2,8 +2,8 @@
 
 - [Conheça o PIX](Conheça-o-PIX-)
 - [Mas afinal, o que é uma chave PIX?](Mas-afinal,-o-que-é-uma-chave-PIX)
-  - [Como configurar sua chave PIX](como-configurar-uma-chave-pix)
-- [Saiba mais](Saiba-mais)
+  - [Como configurar sua chave PIX](https://github.com/JessicaTechWriter/pix-tutorial/edit/main/pix-tutorial.md#como-configurar-sua-chave-pix)
+- [Saiba mais](https://github.com/JessicaTechWriter/pix-tutorial/edit/main/pix-tutorial.md#saiba-mais)
 
 # **Conheça o PIX**
 
