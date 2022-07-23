@@ -32,31 +32,32 @@ Chave Pix nada mais é, um método de identificação para receber dinheiro ou r
 
 Para configurar uma chave PIX, é bem simples, cada instituição financeira exibe um ícone de acesso ao PIX em seus respectivos aplicativos e escolhe a forma do registro. Neste exemplo, veremos o procedimento no aplicativo do banco Itaú.
 
-**Passo 1:** Acesse o aplicativo do Itaú, insira a senha eletrônica da sua conta e clique em acessar.
+**Passo 1:** Acesse o aplicativo do Itaú, insira a senha eletrônica da sua conta e clique em **acessar**.
 
 <img src="https://user-images.githubusercontent.com/109318594/180588931-36fc1519-ecc4-4315-b1f2-81cdff37fa0b.jpg" width="400" height="500"/>
 
 
-**Passo 2:** Clique em Transações e vá em Pix;
+**Passo 2:** Clique em **Transações** e vá em **Pix**;
 
-<img src="https://user-images.githubusercontent.com/109318594/180588946-8479b085-3bfc-43d5-9dbe-c71072066b65.jpg" width="400" height="500"/>
-
-
-**Passo 3:** Toque em Minhas chaves e na próxima tela, clique no botão cadastrar chave;
-
-<img src="https://user-images.githubusercontent.com/109318594/180589003-ebb66fab-ddba-4d66-9007-2f74033b38d2.jpg" width="400" height="500"/>
+<img src="https://user-images.githubusercontent.com/109318594/180588946-8479b085-3bfc-43d5-9dbe-c71072066b65.jpg" width="400" height="500"/>    <img src="https://user-images.githubusercontent.com/109318594/180615347-0562184d-bacf-4269-8867-9be8247be97c.jpg" width="400" height="500"/>
 
 
-**Passo 4:** Escolha um tipo de chave, neste exemplo, a chave escolhida foi a aleatória;
+
+**Passo 3:** Toque em **Minhas chaves** e na próxima tela, clique no botão **cadastrar chave**;
+
+<img src="https://user-images.githubusercontent.com/109318594/180589003-ebb66fab-ddba-4d66-9007-2f74033b38d2.jpg" width="400" height="500"/> <img src="https://user-images.githubusercontent.com/109318594/180615507-4a6a6b19-5552-4ca5-b28a-1607987536d3.jpg" width="400" height="500"/>
+
+
+**Passo 4:** Escolha um tipo de chave, neste exemplo, a chave escolhida foi a **aleatória**;
 
 <img src="https://user-images.githubusercontent.com/109318594/180589050-e2f318a8-5474-4729-bab5-d3c117d00b6c.jpg" width="400" height="500"/>
 
 
 
-> ###### **Nota:** Caso escolha outra opção, será necessário a validação, neste caso, o Itaú enviará um código via SMS ou por e-mail. Copie os números e cole no app para confirmar. Depois, escolha se deseja receber notificações do Pix e avance para finalizar o procedimento mediante digitação da senha da conta.
+> ###### **Nota:** Caso escolha outra opção, será necessário a validação, neste caso, o Itaú enviará um código via SMS ou por e-mail. Copie os números e cole no aplicativo para confirmar. Depois, escolha se deseja receber notificações do Pix e avance para finalizar o procedimento mediante digitação da senha da conta.
 
 
-**Passo 5:** A chave cadastrada será apresentada, agora basta clicar no botão ir para minhas chaves pix;
+**Passo 5:** A chave cadastrada será apresentada, agora basta clicar no botão **ir para minhas chaves pix**;
 
 <img src="https://user-images.githubusercontent.com/109318594/180589076-819ea74c-947a-4c35-9efb-5d6ce30b57d1.jpg" width="400" height="500"/>
 
@@ -74,7 +75,7 @@ Quer saber mais sobre como cadastrar chaves pix em outras instituições finance
 <table>
   <tr>
    <td><a href="https://www.bb.com.br/pbb/pagina-inicial/solucoes-digitais/como-fazer/cadastro-no-pix#/">Banco do Brasil</a>
-   </td>
+   </td>    
    <td><a href="https://www.caixa.gov.br/faleconosco/como-podemos-te-ajudar/pix/Paginas/default.aspx">Caixa Econômica</a>
    </td>
    <td><a href="https://www.santander.com.br/app-santander-pix-desk">Santander</a>
@@ -86,8 +87,13 @@ Quer saber mais sobre como cadastrar chaves pix em outras instituições finance
 </table>
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### **Saiba mais**
 
 - [Banco Central do Brasil](https://www.bcb.gov.br/estabilidadefinanceira/pix)
 - [Acessibilidade no PIX](https://www.bcb.gov.br/estabilidadefinanceira/acessibilidadepix)
+
+
+
+![Outros idiomas](https://user-images.githubusercontent.com/109318594/180615025-ece8e6a2-5135-4bbb-a277-88cd63242673.JPG)
+
