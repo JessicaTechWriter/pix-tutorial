@@ -63,10 +63,9 @@ Para configurar uma chave PIX, é bem simples, cada instituição financeira exi
 
 <img src="https://user-images.githubusercontent.com/109318594/180589097-f11faf2f-fe05-48a3-84a0-fe784a40d301.jpg" width="400" height="500"/>
 
+ #### Pronto! Sua chave Pix está configurada e você já pode se beneficiar dos recursos PIX!
 
----------------------------------------------------------------------------------------------------------------
- #### Pronto! Sua chave Pix está configurada e você pronto ou pronta para utilizar os benefícios deste novo recurso.
----------------------------------------------------------------------------------------------------------------
+
 
 Quer saber mais sobre como cadastrar chaves pix em outras instituições financeiras? Confira abaixo alguns exemplos:
 <table>
@@ -76,9 +75,6 @@ Quer saber mais sobre como cadastrar chaves pix em outras instituições finance
    <td><a href="https://www.caixa.gov.br/faleconosco/como-podemos-te-ajudar/pix/Paginas/default.aspx">Caixa Econômica</a>
    </td>
    <td><a href="https://www.santander.com.br/app-santander-pix-desk">Santander</a>
-   </td>
-   <td><a href="https://www.itau.com.br/pix/">Itaú</a>
-   </td>
    <td><a href="https://banco.bradesco/pix/#cadastro">Bradesco</a>
    </td>
    <td><a href="https://ajuda.bancointer.com.br/pt-BR/articles/4252528-como-cadastro-as-chaves-do-pix-no-inter">Inter</a>
