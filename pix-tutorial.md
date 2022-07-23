@@ -1,11 +1,14 @@
 ### **Índice** ###
 
-- [Conheça o PIX](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#conhe%C3%A7a-o-pix)
+- [Falando do PIX](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#conhe%C3%A7a-o-pix)
 - [Mas afinal, o que é uma chave PIX?](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#mas-afinal-o-que-%C3%A9-uma-chave-pix)
   - [Como configurar sua chave PIX](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#como-configurar-sua-chave-pix)
 - [Saiba mais](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#saiba-mais)
 
-# **Conheça o PIX**
+![Pix](https://user-images.githubusercontent.com/109318594/180614938-3ef38391-91fa-458b-ac27-e56d64a91823.JPG)
+
+
+# **Falando do PIX**
 
 O Pix é uma iniciativa do Banco Central do Brasil, permitindo que as pessoas registrem um código simples para realizar suas transações bancárias, revolucionando a forma para pagar contas, efetuar transferências via TED, DOC e até mesmo outros pagamentos tradicionais, por exemplo, boletos e cheques de forma segura, fácil e instantânea, pois a transação leva apenas cerca de 10 segundos para a efetivação, podendo ser realizada 24 horas por dia, 7 dias por semana.
 
