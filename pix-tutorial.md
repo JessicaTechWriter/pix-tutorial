@@ -40,13 +40,13 @@ Para configurar sua chave Pix, é bem simples, cada instituição financeira exi
 
 **4.** Selecione a **conta corrente** ou **conta poupança**;
 
-**4.** Clique na opção **aleatória**. Será apresentada uma tela com as informações gerais, clique no botão **finalizar cadastro**;
+**5.** Clique na opção **aleatória**. Será apresentada uma tela com as informações gerais, clique no botão **finalizar cadastro**;
 
-**5.** A chave cadastrada será apresentada, agora basta clicar no botão **ir para minhas chaves pix**;
+**6.** A chave cadastrada será apresentada, agora basta clicar no botão **ir para minhas chaves pix**;
 
-**6.** A tela a seguir demonstrará as chaves pix configuradas.
+**7.** A tela a seguir demonstrará as chaves pix configuradas.
 
-**7.** Pronto! Sua chave Pix está configurada.
+**8.** Pronto! Sua chave Pix está configurada.
 
 >###### Importante: No passo 4 caso escolha outra opção, será necessário a validação, neste caso, o Itaú enviará um código via SMS ou por e-mail. Copie os números e cole no aplicativo para continuar.
 
