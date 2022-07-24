@@ -52,7 +52,7 @@ Para configurar sua chave Pix, é bem simples! Cada instituição financeira exi
 
 
 **<details><summary>Clique aqui** e confira mais exemplos de como configurar sua chave Pix em outras instituições financeiras.</summary> 
-<table>
+  <table>
   <tr>
    <td><a href="https://ajuda.bancointer.com.br/pt-BR/articles/4252528-como-cadastro-as-chaves-do-pix-no-inter#/">Inter</a>
    </td>    
@@ -64,7 +64,7 @@ Para configurar sua chave Pix, é bem simples! Cada instituição financeira exi
    <td><a href="https://www.bb.com.br/pbb/pagina-inicial/solucoes-digitais/como-fazer/cadastro-no-pix">Banco do Brasil</a>
    </td>
   </tr>
-</table>
+  </table>
 </details>
 
 _________________________________________________________________________________________________
@@ -76,5 +76,3 @@ Gostou deste conteúdo e quer saber mais sobre o recurso? Confira os tópicos ab
 - [Acessibilidade no PIX](https://www.bcb.gov.br/estabilidadefinanceira/acessibilidadepix)
 
 <img src="https://user-images.githubusercontent.com/109318594/180615025-ece8e6a2-5135-4bbb-a277-88cd63242673.JPG" width="50" height="25">
-
-
