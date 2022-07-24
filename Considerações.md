@@ -3,7 +3,7 @@
 
 - No passo a passo optei por nao inserir imagens pensando na acessibilidade, pois dificultaria o acesso a informação paras as pessoas com deficiência visual. Porém, ressalto que além dos passos devidamente descritos poderia inserir uma linha lincando as imagens na frase "Clique aqui" conforme no exemplo abaixo, pois o cérebro humano é um sistema de processamento de informações e segundo uma pesquisa realizada pelo pesquisador e professor de neurociência na Escola de Medicina da Universidade Johns Hopkins, [Ed Connor](https://krieger.jhu.edu/mbi/directory/ed-connor/), o cérebro pega estímulos sensoriais, como a visão por exemplo, e transforma em conhecimento. 
 
-Neste exemplo também e pensando no usuário final, a inserção de um vídeo curto demonstrando o passo a passo também agregaria valor ao tutorial, sem desconsiderar a descrição exata dos passos pensando na acessibilidade da documentação.
+- Neste exemplo também e pensando no usuário final, a inserção de um vídeo curto demonstrando o passo a passo também agregaria valor ao tutorial, sem desconsiderar a descrição exata dos passos pensando na acessibilidade da documentação.
 
  **Por exemplo:**
  
