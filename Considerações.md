@@ -10,9 +10,11 @@
  ### **Como configurar sua chave PIX**
  [Clique aqui](https://www.youtube.com/watch?v=cnDOedwhr90) e veja o exemplo na prática.
  
-    - Passo 1:
-    - Passo 2:
-    - Passo 3:
+**1.** (Passo 1)
+
+**2.** (Passo 2)
+
+**3.** (Passo 3)
 
 - No exemplo prático optei por usar o aplicativo do Itaú por ser um banco popular, inclusive tenho instalado em meu smartphone. Também considerei se uma pessoa
 tiver conta no banco Itaú e em outra instituição e quiser cadastrar o PIX, talvez o tutorial o ajude a escolher a conta do Itaú.
