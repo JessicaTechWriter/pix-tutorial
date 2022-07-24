@@ -5,20 +5,18 @@
   - [Como configurar sua chave PIX](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#como-configurar-sua-chave-pix)
 - [Saiba mais](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#saiba-mais)
 
-![Pix](https://user-images.githubusercontent.com/109318594/180614938-3ef38391-91fa-458b-ac27-e56d64a91823.JPG)
-
 
 # **Falando do PIX**
 
-O Pix é uma iniciativa do Banco Central do Brasil, permitindo que as pessoas registrem um código simples para realizar suas transações bancárias, revolucionando a forma para pagar contas, efetuar transferências via TED, DOC e até mesmo outros pagamentos tradicionais, por exemplo, boletos e cheques de forma segura, fácil e instantânea, pois a transação leva apenas cerca de 10 segundos para a efetivação, podendo ser realizada 24 horas por dia, 7 dias por semana.
+O Pix é uma iniciativa revolucionadora do Banco Central do Brasil para facilitar transferências bancárias via TED, DOC e até mesmo realizar pagamentos tradicionais, por exemplo, boletos e cheques de uma forma segura, fácil e instantânea levando apenas cerca de 10 segundos para que o dinheiro seja lançado na conta do credor, disponível 24 horas por dia, 7 dias por semana.
 
-O Pix pode ser realizado a partir de uma conta corrente, conta poupança ou conta de pagamento pré-paga em uma instituição financeira, sem a necessidade de instalações de aplicativos para usá-lo. Dessa forma, o Pix age de modo integrado direto ao aplicativo do banco escolhido pelo usuário.
+Essa novidade age de modo integrado à instituição financeira de sua preferência, basta ter uma conta corrente, conta poupança ou conta de pagamento pré-paga.
 
 E para começar a utilizar todos os benefícios que esse recurso oferece, basta configurar uma chave Pix!
 
 # **Mas afinal, o que é uma chave PIX?**
 
-Chave Pix nada mais é, um método de identificação para receber dinheiro ou realizar pagamentos, podendo ser uma das opções abaixo:
+Chave Pix nada mais é que um método de identificação para receber dinheiro ou realizar pagamentos, observe as opções abaixo:
 
 - CPF;
 - CNPJ;
@@ -26,52 +24,38 @@ Chave Pix nada mais é, um método de identificação para receber dinheiro ou r
 - Número de celular;
 - Chave aleatória – esta opção é uma sequência alfanumérica gerada aleatoriamente que poderá ser utilizada por usuários que não queiram vincular dados pessoais.
 
-> ###### Nota: No entanto, para gerar as chaves pix, o usuário não poderá usar os mesmos dados em instituições diferentes, por exemplo: se o usuário utilizou o número do telefone em um banco, é necessário o CPF, CNPJ, endereço de e-mail, ou código personalizado em outra instituição.
+> ###### Nota: No entanto, para gerar as chaves pix, o correntista não poderá usar os mesmos dados em instituições diferentes, por exemplo: caso o correntista tenha escolhido o número do telefone em um banco, é necessário o CPF, CNPJ, endereço de e-mail, ou a chave aleatória em outra instituição.
 
 # **Como configurar sua chave PIX**
 
-Para configurar uma chave PIX, é bem simples, cada instituição financeira exibe um ícone de acesso ao PIX em seus respectivos aplicativos e escolhe a forma do registro. Neste exemplo, veremos o procedimento no aplicativo do banco Itaú.
+Para configurar uma chave Pix, é bem simples, cada instituição financeira exibe um ícone de acesso ao Pix em seus respectivos aplicativos e escolhe a forma do registro. 
 
-**Passo 1:** Acesse o aplicativo do Itaú, insira a senha eletrônica da sua conta e clique em **acessar**.
+**Observe neste exemplo os passos no aplicativo do banco Itaú:**
 
-<img src="https://user-images.githubusercontent.com/109318594/180588931-36fc1519-ecc4-4315-b1f2-81cdff37fa0b.jpg" width="400" height="500"/>
+**1.** Acesse o aplicativo do Itaú, insira a senha eletrônica da sua conta e clique em **acessar**.
 
+**2.** Clique em **transações** e vá em **Pix**;
 
-**Passo 2:** Clique em **Transações** e vá em **Pix**;
+**3.** Toque em **minhas chaves** e na próxima tela, clique no botão **cadastrar chave**;
 
-<img src="https://user-images.githubusercontent.com/109318594/180588946-8479b085-3bfc-43d5-9dbe-c71072066b65.jpg" width="400" height="500"/>    <img src="https://user-images.githubusercontent.com/109318594/180615347-0562184d-bacf-4269-8867-9be8247be97c.jpg" width="400" height="500"/>
+**4.** Selecione a **conta corrente** ou **conta poupança**;
 
+**4.** Escolha um tipo de chave, neste exemplo, a chave escolhida foi a **aleatória**. Será apresentada uma tela com as informações gerais, clique no botão **finalizar cadastro**;
 
+**5.** A chave cadastrada será apresentada, agora basta clicar no botão **ir para minhas chaves pix**;
 
-**Passo 3:** Toque em **Minhas chaves** e na próxima tela, clique no botão **cadastrar chave**;
-
-<img src="https://user-images.githubusercontent.com/109318594/180589003-ebb66fab-ddba-4d66-9007-2f74033b38d2.jpg" width="400" height="500"/> <img src="https://user-images.githubusercontent.com/109318594/180615507-4a6a6b19-5552-4ca5-b28a-1607987536d3.jpg" width="400" height="500"/>
-
-
-**Passo 4:** Escolha um tipo de chave, neste exemplo, a chave escolhida foi a **aleatória**;
-
-<img src="https://user-images.githubusercontent.com/109318594/180589050-e2f318a8-5474-4729-bab5-d3c117d00b6c.jpg" width="400" height="500"/>
-
-
+**6.** Será apresentada a tela com as chaves pix cadastradas.
 
 > ###### **Nota:** Caso escolha outra opção, será necessário a validação, neste caso, o Itaú enviará um código via SMS ou por e-mail. Copie os números e cole no aplicativo para confirmar. Depois, escolha se deseja receber notificações do Pix e avance para finalizar o procedimento mediante digitação da senha da conta.
 
 
-**Passo 5:** A chave cadastrada será apresentada, agora basta clicar no botão **ir para minhas chaves pix**;
-
-<img src="https://user-images.githubusercontent.com/109318594/180589076-819ea74c-947a-4c35-9efb-5d6ce30b57d1.jpg" width="400" height="500"/>
+ #### Pronto! Sua chave Pix está configurada e você já pode se beneficiar dos recursos Pix!
 
 
-
-**Passo 6:** Será apresentada a tela com as chaves pix cadastradas.
-
-<img src="https://user-images.githubusercontent.com/109318594/180589097-f11faf2f-fe05-48a3-84a0-fe784a40d301.jpg" width="400" height="500"/>
-
- #### Pronto! Sua chave Pix está configurada e você já pode se beneficiar dos recursos PIX!
-
-
-
-Quer saber mais sobre como cadastrar chaves pix em outras instituições financeiras? Confira abaixo alguns exemplos:
+_________________________________________________________________________________________________
+- Gostou deste conteúdo e quer saber mais sobre como cadastrar a chave Pix em outras instituições financeiras?
+<details> <summary>Clique aqui e confira.</summary>
+  
 <table>
   <tr>
    <td><a href="https://www.bb.com.br/pbb/pagina-inicial/solucoes-digitais/como-fazer/cadastro-no-pix#/">Banco do Brasil</a>
@@ -85,15 +69,14 @@ Quer saber mais sobre como cadastrar chaves pix em outras instituições finance
    </td>
   </tr>
 </table>
+</details>
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### **Saiba mais**
+
+# **Saiba mais**
 
 - [Banco Central do Brasil](https://www.bcb.gov.br/estabilidadefinanceira/pix)
 - [Acessibilidade no PIX](https://www.bcb.gov.br/estabilidadefinanceira/acessibilidadepix)
 
-
-
-![Outros idiomas](https://user-images.githubusercontent.com/109318594/180615025-ece8e6a2-5135-4bbb-a277-88cd63242673.JPG)
+<img src="https://user-images.githubusercontent.com/109318594/180615025-ece8e6a2-5135-4bbb-a277-88cd63242673.JPG" width="50" height="25">
 
