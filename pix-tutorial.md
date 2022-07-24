@@ -46,7 +46,7 @@ Para configurar sua chave Pix, é bem simples, cada instituição financeira exi
 
 **6.** A tela a seguir demonstrará as chaves pix configuradas.
 
-**7.** **Pronto!** Sua chave Pix está configurada.
+**7.** Pronto! Sua chave Pix está configurada.
 
 > ##### **Importante:** No passo 4 caso escolha outra opção, será necessário a validação, neste caso, o Itaú enviará um código via SMS ou por e-mail. Copie os números e cole no aplicativo para continuar.
 
