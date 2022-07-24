@@ -8,18 +8,18 @@
 
 # **Falando do PIX**
 
-O Pix é uma iniciativa revolucionadora do Banco Central do Brasil para facilitar transferências bancárias via TED, DOC e até mesmo realizar pagamentos tradicionais, por exemplo, boletos e cheques de uma forma segura, fácil e instantânea levando apenas cerca de 10 segundos para que o dinheiro seja lançado na conta do credor, disponível 24 horas por dia, 7 dias por semana.
+O Pix é uma iniciativa revolucionadora do Banco Central do Brasil para facilitar transferências bancárias via TED, DOC e até mesmo realizar pagamentos tradicionais, por exemplo, boletos e cheques de uma forma segura, fácil e instantânea levando apenas cerca de 10 segundos para que o dinheiro seja lançado na conta do credor, esta facilidade está disponível 24 horas por dia, 7 dias por semana.
 
-Essa novidade age de modo integrado à instituição financeira de sua preferência, basta ter uma conta corrente, conta poupança ou conta de pagamento pré-paga.
+Essa novidade age de modo integrado à instituição financeira de acordo com a preferência do correntista, basta ter uma conta corrente, conta poupança ou conta de pagamento pré-paga.
 
 E para começar a utilizar todos os benefícios que esse recurso oferece, basta configurar uma chave Pix!
 
 # **Mas afinal, o que é uma chave PIX?**
 
-Chave Pix nada mais é que um método de identificação para receber dinheiro ou realizar pagamentos, observe as opções abaixo:
+Chave Pix nada mais é que um método de identificação para receber dinheiro ou realizar pagamentos, podendo ser uma das opções abaixo:
 
-- CPF;
-- CNPJ;
+- CPF (Pessoa Fisíca);
+- CNPJ (Pessoa Jurídica);
 - E-mail;
 - Número de celular;
 - Chave aleatória – esta opção é uma sequência alfanumérica gerada aleatoriamente que poderá ser utilizada por usuários que não queiram vincular dados pessoais.
@@ -28,7 +28,7 @@ Chave Pix nada mais é que um método de identificação para receber dinheiro o
 
 # **Como configurar sua chave PIX**
 
-Para configurar uma chave Pix, é bem simples, cada instituição financeira exibe um ícone de acesso ao Pix em seus respectivos aplicativos e escolhe a forma do registro. 
+Para configurar sua chave Pix, é bem simples, cada instituição financeira exibe um ícone de acesso ao Pix em seus respectivos aplicativos e escolhe a forma do registro. 
 
 **Observe neste exemplo os passos no aplicativo do banco Itaú:**
 
