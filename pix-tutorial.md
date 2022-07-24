@@ -51,7 +51,7 @@ Para configurar sua chave Pix, é bem simples, cada instituição financeira exi
 > ##### **Importante:** No passo 4 caso escolha outra opção, será necessário a validação, neste caso, o Itaú enviará um código via SMS ou por e-mail. Copie os números e cole no aplicativo para continuar.
 
 
-<details> <summary>Clique aqui e confira mais exemplos de como configurar sua chave Pix em outras instituições financeiras.</summary>   
+**<details><summary>Clique aqui** e confira mais exemplos de como configurar sua chave Pix em outras instituições financeiras.</summary> 
 <table>
   <tr>
    <td><a href="https://ajuda.bancointer.com.br/pt-BR/articles/4252528-como-cadastro-as-chaves-do-pix-no-inter#/">Inter</a>
