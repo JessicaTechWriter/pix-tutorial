@@ -40,40 +40,37 @@ Para configurar sua chave Pix, é bem simples, cada instituição financeira exi
 
 **4.** Selecione a **conta corrente** ou **conta poupança**;
 
-**4.** Escolha um tipo de chave, neste exemplo, a chave escolhida foi a **aleatória**. Será apresentada uma tela com as informações gerais, clique no botão **finalizar cadastro**;
+**4.** Clique na opção **aleatória**. Será apresentada uma tela com as informações gerais, clique no botão **finalizar cadastro**;
 
 **5.** A chave cadastrada será apresentada, agora basta clicar no botão **ir para minhas chaves pix**;
 
 **6.** A tela a seguir demonstrará as chaves pix configuradas.
 
-> ###### **Nota:** Caso escolha outra opção, será necessário a validação, neste caso, o Itaú enviará um código via SMS ou por e-mail. Copie os números e cole no aplicativo para confirmar. Depois, escolha se deseja receber notificações do Pix e avance para finalizar o procedimento mediante digitação da senha da conta.
+**7.** Pronto! Sua chave Pix está configurada e você já pode se beneficiar dos recursos Pix!
+
+> ##### **Importante:** No passo 4 caso escolha outra opção, será necessário a validação, neste caso, o Itaú enviará um código via SMS ou por e-mail. Copie os números e cole no aplicativo para continuar.
 
 
- #### Pronto! Sua chave Pix está configurada e você já pode se beneficiar dos recursos Pix!
-
-
-_________________________________________________________________________________________________
-- Gostou deste conteúdo e quer saber mais sobre como cadastrar a chave Pix em outras instituições financeiras?
-<details> <summary>Clique aqui e confira.</summary>
-  
+<details> <summary>Clique aqui e confira mais exemplos de como configurar sua chave Pix em outras instituições financeiras.</summary>   
 <table>
   <tr>
-   <td><a href="https://www.bb.com.br/pbb/pagina-inicial/solucoes-digitais/como-fazer/cadastro-no-pix#/">Banco do Brasil</a>
+   <td><a href="https://ajuda.bancointer.com.br/pt-BR/articles/4252528-como-cadastro-as-chaves-do-pix-no-inter#/">Inter</a>
    </td>    
-   <td><a href="https://www.caixa.gov.br/faleconosco/como-podemos-te-ajudar/pix/Paginas/default.aspx">Caixa Econômica</a>
-   </td>
-   <td><a href="https://www.santander.com.br/app-santander-pix-desk">Santander</a>
    <td><a href="https://banco.bradesco/pix/#cadastro">Bradesco</a>
    </td>
-   <td><a href="https://ajuda.bancointer.com.br/pt-BR/articles/4252528-como-cadastro-as-chaves-do-pix-no-inter">Inter</a>
+   <td><a href="https://www.santander.com.br/app-santander-pix-desk">Santander</a>
+   <td><a href="https://www.caixa.gov.br/faleconosco/como-podemos-te-ajudar/pix/Paginas/default.aspx">Caixa Econômica</a>
+   </td>
+   <td><a href="https://www.bb.com.br/pbb/pagina-inicial/solucoes-digitais/como-fazer/cadastro-no-pix">Banco do Brasil</a>
    </td>
   </tr>
 </table>
 </details>
 
-
-
+_________________________________________________________________________________________________
 # **Saiba mais**
+
+Gostou deste conteúdo e quer saber mais sobre o recurso? Confira os tópicos abaixo.
 
 - [Banco Central do Brasil](https://www.bcb.gov.br/estabilidadefinanceira/pix)
 - [Acessibilidade no PIX](https://www.bcb.gov.br/estabilidadefinanceira/acessibilidadepix)
