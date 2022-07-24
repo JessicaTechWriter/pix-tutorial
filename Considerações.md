@@ -1,11 +1,11 @@
 ## Considerações
 - Neste tutorial optei em escrevê-lo de forma sucinta, objetiva e observando os guias de estilo recomendado no desafio, linquei os tópicos abordados no índice, pois considerei que a maioria das pessoas procuram informações imediatas devido alguns fatores presentes no dia a dia, um deles: a pressa.
 
-- No passo a passo optei por nao inserir imagens pensando na acessibilidade, pois dificultaria o acesso à informação para as pessoas com deficiência visual. Porém, ressalto que além dos passos devidamente descritos poderia inserir uma linha lincando as imagens na frase "Clique aqui" conforme no exemplo abaixo (1), pois o cérebro humano é um sistema de processamento de informações, e segundo uma pesquisa realizada pelo pesquisador e professor de neurociência na Escola de Medicina da Universidade Johns Hopkins, [Ed Connor](https://krieger.jhu.edu/mbi/directory/ed-connor/), o cérebro pega estímulos sensoriais, como a visão por exemplo, transformando -o em conhecimento. 
+- No passo a passo optei por nao inserir imagens pensando na acessibilidade, pois dificultaria o acesso à informação para as pessoas com deficiência visual. Porém, ressalto que além dos passos devidamente descritos poderia inserir uma linha lincando as imagens na frase "Clique aqui" conforme no exemplo abaixo (*), pois o cérebro humano é um sistema de processamento de informações, e segundo uma pesquisa realizada pelo pesquisador e professor de neurociência na Escola de Medicina da Universidade Johns Hopkins, [Ed Connor](https://krieger.jhu.edu/mbi/directory/ed-connor/), o cérebro pega estímulos sensoriais, como a visão por exemplo, transformando -o em conhecimento. 
 
-- Tendo como base esse mesmo exemplo e pensando no usuário final, a inserção de um vídeo curto demonstrando o passo a passo também agregaria valor ao tutorial, sem desconsiderar a descrição exata dos passos pensando na acessibilidade da documentação.
+- Tendo como base esse mesmo exemplo e pensando no usuário final, a inserção de um vídeo curto (contando com interpretação em libras) demonstrando o passo a passo também agregaria valor ao tutorial, sem desconsiderar a descrição exata dos passos pensando na acessibilidade da documentação.
 
- (1) **Por exemplo:**
+ (*) **Por exemplo:**
  
  ### **Como configurar sua chave PIX**
  [Clique aqui](https://www.youtube.com/watch?v=cnDOedwhr90) e veja o exemplo na prática.
