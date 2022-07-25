@@ -23,12 +23,13 @@
 
 - No exemplo prático optei por usar o aplicativo do Itaú por ser um banco popular, inclusive tenho instalado em meu smartphone. Também considerei se uma pessoa tiver conta no banco Itaú bem como em outra instituição e quiser cadastrar o Pix, talvez o tutorial o ajude a escolher a conta do Itaú.
 
-- Também inseri exemplos de outras instituições financeiras para apoiar mais pessoas que venham a ter contas em outros bancos.
-
 - Destaco que em um cenário real, a documentação necessitaria de atualizações conforme mudanças viessem a ocorrer. E se por ventura, seguindo o guia de estilo da corporação a documentação tivesse imagens, estas deveriam ser renovadas conforme as atualizações do aplicativo, evitando que a documentação caia em desuso.
 
-- Ao final da documentação correlacionei alguns tópicos pertinentes caso a pessoa busque mais informações sobre o assunto, principalmente sobre acessibilidade no Pix.
+- Também inseri exemplos de outras instituições financeiras para apoiar mais pessoas que venham a ter contas em outros bancos.
+
+- Ao final da documentação inseri algumas perguntas frequentes sobre dúvidas em relação ao tema, que possam surgir para a pessoa que está lendo o tutorial. 
+
+- Correlacionei alguns tópicos pertinentes caso a pessoa busque mais informações, principalmente sobre acessibilidade no Pix.
 
 - Por fim, inseri no rodapé do tutorial uma imagem com ícones de outros idiomas. Em um cenário real, a pessoa usuária poderia clicar em um dos ícones e ser redirecionada para a documentação traduzida conforme o idioma escolhido.
-
 
