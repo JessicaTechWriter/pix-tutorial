@@ -1,10 +1,10 @@
 ## Considerações
 
-- Tutorial direcionado para um pessoa física, visto que a modalidade jurídica seria escopo para outra documentação.
+- Tutorial direcionado para uma pessoa física, visto que a modalidade jurídica seria escopo para outra documentação.
 
-- Optei em escrevê-lo de forma sucinta, objetiva e observando os guias de estilo recomendado no desafio, linquei os tópicos abordados no índice, pois considerei que a maioria das pessoas procuram informações imediatas devido alguns fatores presentes no dia a dia, um deles: a pressa.
+- Optei em escrevê-lo de forma sucinta, objetiva e observando os guias de estilo recomendados no desafio, linquei os tópicos abordados no índice, pois considerei que a maioria das pessoas procuram informações imediatas devido alguns fatores presentes no dia a dia, um deles: a pressa.
 
-- No passo a passo optei por nao inserir imagens pensando na acessibilidade, pois dificultaria o acesso à informação para as pessoas com deficiência visual. 
+- No passo a passo optei por não inserir imagens pensando na acessibilidade, pois dificultaria o acesso à informação para as pessoas com deficiência visual. 
 
   Contudo, ressalto que além dos passos devidamente descritos seria uma opção inserir em cada passo a imagem da tela do aplicativo, visto que     o cérebro humano é um sistema de processamento de informações, e segundo uma pesquisa realizada pelo pesquisador e professor de neurociência na Escola de Medicina da Universidade Johns Hopkins, [Ed Connor](https://krieger.jhu.edu/mbi/directory/ed-connor/), o cérebro pega estímulos sensoriais, como a visão por exemplo, transformando-o em conhecimento, por isso o intuito da inserção das imagens.
 
