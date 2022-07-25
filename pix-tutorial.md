@@ -26,7 +26,7 @@ Chave Pix nada mais é que um método de identificação para receber dinheiro o
 - Número de celular;
 - Chave aleatória – esta opção é uma sequência alfanumérica gerada aleatoriamente que poderá ser utilizada por usuários que não queiram vincular dados pessoais.
 
-> ###### Nota: No entanto, para gerar as chaves pix, o correntista não poderá usar os mesmos dados em instituições diferentes, por exemplo: caso o correntista tenha escolhido o número do telefone em um banco, é necessário o CPF, CNPJ, endereço de e-mail, ou a chave aleatória em outra instituição.
+> ###### Nota: No entanto, para gerar as chaves pix, o correntista não poderá usar os mesmos dados em instituições diferentes, por exemplo: caso o correntista tenha escolhido o número do telefone em um banco, é necessário a utilização do CPF, CNPJ, endereço de e-mail, ou a chave aleatória em outra instituição.
 
 ## **Como configurar sua chave PIX**
 
@@ -92,7 +92,7 @@ Para configurar sua chave Pix, é bem simples! Cada instituição financeira exi
 <details><summary>Se eu mudar de e-mail ou número de celular?</summary>
     _________________________________________________________________________________________________________________________________________
   
-  Caso mude de e-mail ou número do celular, será necessário excluir as anteriores no gerenciador de chaves da instituição que usa e cadastrar os dados atuais como novas chaves.  
+  Caso mude de e-mail ou número de celular, será necessário excluir as anteriores no gerenciador de chaves da instituição que usa e cadastrar os dados atuais como novas chaves.  
 </details>
   
   
