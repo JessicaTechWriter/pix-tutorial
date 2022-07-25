@@ -8,7 +8,7 @@
 
   Contudo, ressalto que além dos passos devidamente descritos seria uma opção inserir em cada passo a imagem da tela do aplicativo, visto que     o cérebro humano é um sistema de processamento de informações, e segundo uma pesquisa realizada pelo pesquisador e professor de neurociência na Escola de Medicina da Universidade Johns Hopkins, [Ed Connor](https://krieger.jhu.edu/mbi/directory/ed-connor/), o cérebro pega estímulos sensoriais, como a visão por exemplo, transformando-o em conhecimento, por isso o intuito da inserção das imagens.
 
-- Tendo como base o exemplo descrito em como _"Configurar sua chave PIX"_ e pensando no usuário final, a inserção de um vídeo curto (contando com interpretação em libras) demonstrando o passo a passo também agregaria valor ao tutorial, sem desconsiderar a descrição assertiva dos passos pensando na acessibilidade da documentação.
+- Tendo como base o exemplo descrito em _"Como configurar sua chave PIX"_ e pensando no usuário final, a inserção de um vídeo curto (contando com interpretação em libras) demonstrando o passo a passo também agregaria valor ao tutorial, sem desconsiderar a descrição assertiva dos passos pensando na acessibilidade da documentação.
 
  **Por exemplo:**
  
