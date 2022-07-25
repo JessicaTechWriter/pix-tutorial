@@ -26,7 +26,7 @@ Chave Pix nada mais é que um método de identificação para receber dinheiro o
 
 > ###### Nota: No entanto, para gerar as chaves pix, o correntista não poderá usar os mesmos dados em instituições diferentes, por exemplo: caso o correntista tenha escolhido o número do telefone em um banco, é necessário o CPF, CNPJ, endereço de e-mail, ou a chave aleatória em outra instituição.
 
-# **Como configurar sua chave PIX**
+## **Como configurar sua chave PIX**
 
 Para configurar sua chave Pix, é bem simples! Cada instituição financeira exibe um ícone de acesso ao Pix em seus respectivos aplicativos e escolhe a forma do registro. 
 
