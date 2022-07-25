@@ -8,7 +8,7 @@
 
 # **Falando do PIX**
 
-O Pix é uma iniciativa revolucionadora do Banco Central do Brasil para facilitar transferências bancárias via TED, DOC e até mesmo realizar pagamentos tradicionais, por exemplo, boletos e cheques. A transação é efetivada de forma segura, fácil e instantânea levando apenas cerca de 10 segundos para que o dinheiro seja lançado na conta do credor, esta facilidade está disponível 24 horas por dia, 7 dias por semana.
+O Pix é uma iniciativa revolucionadora do Banco Central do Brasil para facilitar transferências bancárias e até mesmo realizar pagamentos tradicionais, por exemplo, boletos e cheques. A transação é efetivada de forma segura, fácil e instantânea levando apenas cerca de 10 segundos para que o dinheiro seja lançado na conta do credor, esta facilidade está disponível 24 horas por dia, 7 dias por semana.
 
 Essa novidade age de modo integrado à uma instituição financeira conforme preferência do correntista, basta ter uma conta corrente, conta poupança ou conta de pagamento pré-paga.
 
@@ -68,7 +68,7 @@ Para configurar sua chave Pix, é bem simples! Cada instituição financeira exi
 </details>
 
 _________________________________________________________________________________________________
-# **Saiba mais**
+## **Saiba mais**
 
 Gostou deste conteúdo e quer saber mais sobre o recurso? Confira os tópicos abaixo.
 
