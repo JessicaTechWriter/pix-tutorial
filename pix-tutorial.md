@@ -69,7 +69,7 @@ Para configurar sua chave Pix, é bem simples! Cada instituição financeira exi
   </tr>
   </table>
 
-# **Perguntas frequentes**
+## **Perguntas frequentes**
 
 <details><summary>Pix é seguro?</summary>
   _________________________________________________________________________________________________________________________________________
@@ -92,7 +92,7 @@ Para configurar sua chave Pix, é bem simples! Cada instituição financeira exi
 </details>
   
   
-## **Relacionados**
+#### **Relacionados**
 
 - [Banco Central do Brasil](https://www.bcb.gov.br/estabilidadefinanceira/pix)
 - [Acessibilidade no PIX](https://www.bcb.gov.br/estabilidadefinanceira/acessibilidadepix)
