@@ -73,21 +73,25 @@ Para configurar sua chave Pix, é bem simples! Cada instituição financeira exi
 
 <details><summary>Pix é seguro?</summary>
   _________________________________________________________________________________________________________________________________________
+  
   Sim. As transações contam com a segurança da criptografia, amparada pela Lei Geral de Proteção de Dados (LGPD) e protegidas pelo sigilo bancário.
 </details>
 
 <details><summary>Posso mudar minha chave para outro banco?</summary>
     _________________________________________________________________________________________________________________________________________
+  
   Sim. Haverá possibilidade de fazer a portabilidade da chave. A alteração das chaves só funcionará das 8h às 20h, de qualquer dia. Diferente dos pagamentos, que podem ser feitos a qualquer momento.  
 </details>
 
 <details><summary>Tem limite de chaves?</summary>
     _________________________________________________________________________________________________________________________________________
+  
   Sim. Para pessoas físicas, o limite é de 5 chaves cadastradas em cada conta bancária, já as pessoas jurídicas podem ter até 20 chaves por conta.
 </details>
 
 <details><summary>Se eu mudar de e-mail ou número de celular?</summary>
     _________________________________________________________________________________________________________________________________________
+  
   Caso mude de e-mail ou número do celular, será necessário excluir as anteriores no gerenciador de chaves da instituição que usa e cadastrar os dados atuais como novas chaves.  
 </details>
   
