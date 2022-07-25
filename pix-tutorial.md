@@ -3,7 +3,9 @@
 - [Falando do PIX](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#falando-do-pix)
 - [Mas afinal, o que é uma chave PIX?](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#mas-afinal-o-que-%C3%A9-uma-chave-pix)
   - [Como configurar sua chave PIX](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#como-configurar-sua-chave-pix)
-- [Saiba mais](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#saiba-mais)
+- [Perguntas frequentes](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#perguntas-frequentes)
+- [Relacionados](https://github.com/JessicaTechWriter/pix-tutorial/blob/main/pix-tutorial.md#saiba-mais)
+
 
 
 # **Falando do PIX**
