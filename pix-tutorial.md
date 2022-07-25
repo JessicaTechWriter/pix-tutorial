@@ -30,7 +30,7 @@ Chave Pix nada mais é que um método de identificação para receber dinheiro o
 
 Para configurar sua chave Pix, é bem simples! Cada instituição financeira exibe um ícone de acesso ao Pix em seus respectivos aplicativos e escolhe a forma do registro. 
 
-**Observe neste exemplo os passos de como configurar a chave aleatória no aplicativo do banco Itaú:**
+**Observe neste exemplo os passos de como configurar a chave _aleatória_ no aplicativo do banco Itaú:**
 
 **1.** Acesse o aplicativo do Itaú, insira a senha eletrônica da sua conta e clique em **acessar**.
 
